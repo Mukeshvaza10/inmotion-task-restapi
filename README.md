@@ -4,7 +4,7 @@ Build a Laravel Application that serves as a RESTful API for managing a Todo Lis
   <p>->First run command on application root folder like below :</p>
   <p>->composer install</p>
   <p>->php artisan migrate</p>
-  <p>->go to postman and expose API (postman collection added)</p>
+  <p>->go to postman and expose API (postman collection added chack inside public folder [public/postman-collection] collection file available here)</p>
   <p>->Task listing page you can filter task as it's status like completed/incompleted (just pass input parameter like status=1 or 0) and you will get result based on status filter.</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
